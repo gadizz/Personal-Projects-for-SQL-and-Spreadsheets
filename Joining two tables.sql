@@ -12,3 +12,6 @@ ORDER BY
   department_name
 LIMIT
   8
+-- The results are available in: Results/Result of joining two tables.png
+
+
