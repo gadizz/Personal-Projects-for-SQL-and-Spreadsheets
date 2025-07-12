@@ -13,3 +13,4 @@ ORDER BY
   num_of_trips DESC
 LIMIT
   2000
+-- The results are available in: Results/Using multiple aggregations.csv
