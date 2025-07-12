@@ -8,5 +8,4 @@ WHERE
   OR County_of_Residence LIKE "%Chautauqua%"
 ORDER BY
   Births DESC
-LIMIT 
-  1000
+-- The results are available in: Results/Broad filtering.csv
